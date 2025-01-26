@@ -13,7 +13,7 @@ In this course, you will learn how to build custom annotation processors, optimi
 ## 📽️ Course Video Link:
 [Watch the Course on YouTube](Your-YouTube-Link-Here)
 
-![Course Image](Your-Image-Link-Here)  
+<a href="https://github.com/user-attachments/assets/8acc01e4-161c-484b-be7b-5828365a001d"><img src="https://github.com/user-attachments/assets/8acc01e4-161c-484b-be7b-5828365a001d" alt="Kotlin Symbol Processing" title="Kotlin Symbol Processing" /></a>
 
 ## 📂 Repository Contents:
 This repository contains all the materials for the course:
@@ -48,7 +48,7 @@ Clone this repository, explore the materials, and start learning how to implemen
 ---
 
 ### 🔗 Links:
-- [YouTube Course Link](Your-YouTube-Link-Here)
+- [YouTube Course Link]([Your-YouTube-Link-Here](https://www.youtube.com/watch?v=j6bRayP2L7M&list=PLk7v1Z2rk4hgFBNhnNWrdVxS16TT28Hev))
 - [Repo Issues and Discussions](https://github.com/yourusername/repo-name/issues)
 
 ---
