@@ -46,7 +46,7 @@ Clone this repository, explore the materials, and start learning how to implemen
 
 ### 🔗 Links:
 - [YouTube Course Link](https://www.youtube.com/watch?v=j6bRayP2L7M&list=PLk7v1Z2rk4hgFBNhnNWrdVxS16TT28Hev)
-- [Repo Issues and Discussions](https://github.com/yourusername/repo-name/issues)
+- [Repo Issues and Discussions](https://github.com/probelalkhan/kotlin-symbol-processing-android/issues)
 
 ---
 
