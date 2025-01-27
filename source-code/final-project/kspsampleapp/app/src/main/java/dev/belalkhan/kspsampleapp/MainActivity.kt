@@ -17,13 +17,36 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
 
-        val user = User(1, "Belal")
-        val book = Book(1, "The Grand Design")
-        val song = Song(1, "Bye Bye")
+        val user = User(
+            id = 1,
+            name = "John Doe",
+            active = true,
+            book = Book(
+                id = 101,
+                name = "The Great Adventure",
+                price = 19.99,
+                authors = listOf("Alice Smith", "Bob Johnson")
+            ),
+            friends = listOf("Alice", "Bob", "Charlie"),
+            attributes = mapOf(
+                "height" to "6ft",
+                "weight" to "180lbs",
+                "eyeColor" to "blue"
+            ),
+            tags = setOf("adventurer", "reader", "traveler"),
+            address = Address(
+                street = "123 Elm Street",
+                city = "Springfield",
+                postalCode = 98765
+            ),
+            phoneNumbers = listOf(
+                PhoneNumber(type = "home", number = "555-1234"),
+                PhoneNumber(type = "mobile", number = "555-5678")
+            )
+        )
 
         println(user.toJson())
-        println(book.toJson())
-        println(song.toJson())
+
 
         setContent {
             AppTheme {
