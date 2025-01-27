@@ -11,9 +11,9 @@ In this course, you will learn how to build custom annotation processors, optimi
 - **Format**: Video lessons, slides, and source code examples
 
 ## 📽️ Course Video Link:
-[Watch the Course on YouTube](Your-YouTube-Link-Here)
+[Watch the Course on YouTube](https://www.youtube.com/watch?v=j6bRayP2L7M&list=PLk7v1Z2rk4hgFBNhnNWrdVxS16TT28Hev)
 
-![Course Image](Your-Image-Link-Here)  
+<a target="_blank" href="https://www.youtube.com/watch?v=j6bRayP2L7M&list=PLk7v1Z2rk4hgFBNhnNWrdVxS16TT28Hev"><img src="https://github.com/user-attachments/assets/8acc01e4-161c-484b-be7b-5828365a001d" alt="Kotlin Symbol Processing" title="Kotlin Symbol Processing" /></a>
 
 ## 📂 Repository Contents:
 This repository contains all the materials for the course:
@@ -22,14 +22,11 @@ This repository contains all the materials for the course:
 - **Other Resources**: Additional materials to support your learning
 
 ## 📑 Course Contents:
-1. **Introduction to Kotlin Symbol Processing (KSP)**
-2. **Setting Up KSP in Your Android Project**
-3. **Creating Custom Annotations and Processors**
-4. **Understanding KSP API and Code Generation**
-5. **Practical Examples for Android Development**
-6. **Advanced Use Cases and Optimization**
-7. **Troubleshooting and Best Practices**
-8. **Conclusion and Next Steps**
+1. **Course Introduction** : [Link](https://youtu.be/j6bRayP2L7M?si=rc9iTWqCzex1w2tV)
+2. **What is Kotlin Symbol Processing? Its Usages, Benefits and Examples** : [Link](https://youtu.be/2JozQfw1Iz0?si=3bLskOCiymCz_Wyt)
+3. **Creating a Custom Annotations** : [Link](https://youtu.be/U2lghnMI4Ug?si=ZA4qk4Bjhab1ywDN)
+4. **Creating the Processor to Process Annotation** : [Link](https://youtu.be/Gn5PrNTmpSc?si=0nqTsq50YfoW82M4)
+5. **Stitching Everything Together to Generate Code** : [Link](https://youtu.be/8crIJeJGqfY?si=1ShF70kM1OsHB2ne)
 
 *Note: The course contents will be updated regularly as we continue building more lessons.*
 
@@ -48,8 +45,8 @@ Clone this repository, explore the materials, and start learning how to implemen
 ---
 
 ### 🔗 Links:
-- [YouTube Course Link](Your-YouTube-Link-Here)
-- [Repo Issues and Discussions](https://github.com/yourusername/repo-name/issues)
+- [YouTube Course Link](https://www.youtube.com/watch?v=j6bRayP2L7M&list=PLk7v1Z2rk4hgFBNhnNWrdVxS16TT28Hev)
+- [Repo Issues and Discussions](https://github.com/probelalkhan/kotlin-symbol-processing-android/issues)
 
 ---
 
